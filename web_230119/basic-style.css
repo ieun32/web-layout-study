@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #181818;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.color1 {
+    background-color: violet;
+}
+.color2 {
+    background-color: purple;
+}
+.color3 {
+    background-color: yellowgreen;
+}
+.color4 {
+    background-color:aquamarine;
+}
+.color5 {
+    background-color: rgb(204, 240, 138);
+}
+.color6 {
+    background-color: rgb(105, 114, 233);
+}
+.color7 {
+    background-color: rgb(130, 216, 238);
+}
+.color8 {
+    background-color: rgba(255, 189, 67, 0.658);
+}
+.color9 {
+    background-color: rgb(238, 236, 130);
+}
+.color10 {
+    background-color: rgb(255, 108, 63);
+}
